@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AnalyticsDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <IsFolder>false</IsFolder>
+  <Id>0</Id>
+  <IsNewRecord>false</IsNewRecord>
+  <Name />
+  <Description>AnalyticsWorkbench2</Description>
+  <CreateDtTm>0001-01-01T00:00:00</CreateDtTm>
+  <UpdateDtTm>0001-01-01T00:00:00</UpdateDtTm>
+  <CatalogInfo>
+    <PublishToCatalog>false</PublishToCatalog>
+  </CatalogInfo>
+  <Views />
+  <GridWidth>7</GridWidth>
+  <GridHeight>5</GridHeight>
+  <UnitHeight>150</UnitHeight>
+  <UnitWidth>170</UnitWidth>
+  <IsDeployedDashboard>false</IsDeployedDashboard>
+  <Cards />
+</AnalyticsDocument>
